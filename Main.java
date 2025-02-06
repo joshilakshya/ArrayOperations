@@ -1,7 +1,4 @@
 // Main.java
-//Name : Khushi Kashyap
-//PRN:23070126060
-//Batch : AIML A3
 import java.util.Scanner;
 
 public class Main {
